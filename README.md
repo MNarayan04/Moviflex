@@ -19,14 +19,14 @@ React | SCSS
   ``` 
 3. Set working directory to the root directory of the project.
   ```sh
-  cd Movix
+  cd Moviflex
   ```
 
 ## Server 💻
 
 Following are the steps to run the app on your local machine. All the code will go in the `Movix` folder.
 
-1. Navigate to `Movix` folder.
+1. Navigate to `Moviflex` folder.
   ```sh
   cd Movix
   ```
